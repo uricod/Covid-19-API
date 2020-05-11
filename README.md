@@ -1,6 +1,6 @@
 # Covid-19-API
 
-Excel Add-in that can pull Covid-19 data from this API. https://covid19api.com/
+Excel Add-in that can pull Covid-19 data from this API: https://covid19api.com/
 
 Documentation is here: https://documenter.getpostman.com/view/10808728/SzS8rjbc?version=latest
 
